@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "856467326211",
+    "firebase_url": "https://demopushnot-3f8db.firebaseio.com",
+    "project_id": "demopushnot-3f8db",
+    "storage_bucket": "demopushnot-3f8db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856467326211:android:fee0ae701603abc0",
+        "android_client_info": {
+          "package_name": "com.push.iprun.demopushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856467326211-gm92u5ne2mqjhjd54lkasrmda4fcp1hv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHF-oQ_lW9E39Uatykt3z6dOYoWC0VUsM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
